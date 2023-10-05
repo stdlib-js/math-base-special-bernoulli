@@ -29,7 +29,7 @@ var bernoulli = require( './../../dist' );
 
 // FIXTURES //
 
-var BERNOULLI = require( './../../dist/bernoulli.json' );
+var BERNOULLI = require( './../../lib/bernoulli.json' );
 
 
 // TESTS //

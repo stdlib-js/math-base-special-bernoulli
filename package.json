@@ -37,9 +37,9 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/constants-float64-ninf": "^0.1.0",
-    "@stdlib/constants-float64-pinf": "^0.1.0",
-    "@stdlib/math-base-assert-is-nan": "^0.1.0",
+    "@stdlib/constants-float64-ninf": "^0.1.1",
+    "@stdlib/constants-float64-pinf": "^0.1.1",
+    "@stdlib/math-base-assert-is-nan": "^0.1.1",
     "@stdlib/math-base-assert-is-nonnegative-integer": "^0.1.0",
     "@stdlib/math-base-assert-is-odd": "^0.1.0"
   },
