@@ -46,7 +46,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-bernoulli@deno/mod.js';
+import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-bernoulli@v0.2.0-deno/mod.js';
 ```
 
 #### bernoulli( n )
@@ -123,7 +123,7 @@ var v = bernoulli( NaN );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-bernoulli@deno/mod.js';
+import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-bernoulli@v0.2.0-deno/mod.js';
 
 var v;
 var i;
