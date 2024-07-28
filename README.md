@@ -48,7 +48,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-bernoulli = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-bernoulli@umd/browser.js' )
+bernoulli = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-bernoulli@v0.3.0-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -60,7 +60,7 @@ var bernoulli = require( 'path/to/vendor/umd/math-base-special-bernoulli/index.j
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-bernoulli@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-bernoulli@v0.3.0-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -150,7 +150,7 @@ var v = bernoulli( NaN );
 <!DOCTYPE html>
 <html lang="en">
 <body>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-bernoulli@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-bernoulli@v0.3.0-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
