@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-24)
+## Unreleased (2025-08-27)
 
 <section class="features">
 
@@ -38,6 +38,7 @@
 
 <details>
 
+-   [`81f904d`](https://github.com/stdlib-js/stdlib/commit/81f904da25808197e2ae83ebf9c8b26860855e7c) - **bench:** fix failing C benchmarks by using `round` and `roundf` [(#7980)](https://github.com/stdlib-js/stdlib/pull/7980) _(by Gunj Joshi)_
 -   [`66f7bba`](https://github.com/stdlib-js/stdlib/commit/66f7bba1086767688fb3c4d4b2204cc6e92280bb) - **refactor:** modify C implementation to accept `double` instead of `int32` in `math/base/special/bernoulli` [(#7940)](https://github.com/stdlib-js/stdlib/pull/7940) _(by Gunj Joshi, Athan Reines)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`0e2afee`](https://github.com/stdlib-js/stdlib/commit/0e2afeeeb0bf31c508ed943c5f0f6fb558a26381) - **bench:** refactor random value generation [(#5374)](https://github.com/stdlib-js/stdlib/pull/5374) _(by Saurabh Singh, Athan Reines)_
