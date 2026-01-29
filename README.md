@@ -46,7 +46,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-bernoulli@esm/index.mjs';
+import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-bernoulli@v0.4.0-esm/index.mjs';
 ```
 
 #### bernoulli( n )
@@ -128,7 +128,7 @@ var v = bernoulli( NaN );
 <body>
 <script type="module">
 
-import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-bernoulli@esm/index.mjs';
+import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-bernoulli@v0.4.0-esm/index.mjs';
 
 var v;
 var i;
