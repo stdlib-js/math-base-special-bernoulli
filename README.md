@@ -46,6 +46,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-bernoulli@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-bernoulli/tags). For example,
+
+```javascript
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-bernoulli@v0.4.0-esm/index.mjs';
 ```
 
@@ -128,7 +133,7 @@ var v = bernoulli( NaN );
 <body>
 <script type="module">
 
-import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-bernoulli@v0.4.0-esm/index.mjs';
+import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-bernoulli@esm/index.mjs';
 
 var v;
 var i;
